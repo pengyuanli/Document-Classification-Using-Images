@@ -61,11 +61,11 @@ Class labels assigned to documents.
 
 **GXD2000 dataset**  
 Dataset path: /datasets/GXD2000  
-Description: This dataset is a subset of the dataset used by [Jiang \textit{et al.} (2017)](https://doi.org/10.1093/database/bax017) . The original dataset contains PDF files of 58,362 publications curated by the Jackson Lab’s Gene Expression Database. We selected at random 1,000 relevant and 1,000 irrelevant documents from these publications.  
+Description: This dataset is a subset of the dataset used by [Jiang et al. (2017)](https://doi.org/10.1093/database/bax017) . The original dataset contains PDF files of 58,362 publications curated by the Jackson Lab’s Gene Expression Database. We selected at random 1,000 relevant and 1,000 irrelevant documents from these publications.  
 
 **DSP dataset**  
 
 Dataset path: /datasets/DSP  
 
-Description: This dataset was introduced by [Burns \textit{et al.} (2019)](https://doi.org/10.1093/database/baz034). The original dataset comprises 537 publications relevant to molecular interactions and 451 irrelevant ones. In our dataset, 534 relevant publications and 448 irrelevant ones are retained as their PDF files are available for download online.  
+Description: This dataset was introduced by [Burns et al. (2019)](https://doi.org/10.1093/database/baz034). The original dataset comprises 537 publications relevant to molecular interactions and 451 irrelevant ones. In our dataset, 534 relevant publications and 448 irrelevant ones are retained as their PDF files are available for download online.  
 
